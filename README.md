@@ -2,7 +2,7 @@
 
 <img width="1014" height="730" alt="eBayUsedCarsDashboard" src="https://github.com/user-attachments/assets/eb320b01-6e68-4de9-9102-a9e3b619ab1d" />
 
-*Click [here](https://public.tableau.com/app/profile/nathan.chapero/viz/eBay_used_car_analysis/Dashboard1?publish=yes) to view the interactive dashboard on Tableau Public.*
+*Click [here](https://public.tableau.com/app/profile/nathan.chapero/viz/eBay_used_car_analysis/Dashboard1?publish=yes) to view the interactive dashboard.*
 
 ## Table of Contents
 - [Project Overview](#project-overview)
