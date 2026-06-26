@@ -14,7 +14,7 @@
 ## Project Overview
 This project analyzes a dataset of over 263,000 used car listings from the German eBay classifieds platform. The goal was to identify market trends, understand vehicle depreciation curves by manufacturer, and build a highly interactive executive dashboard to allow users to isolate specific market segments.
 
-* **Data Source:** [Link to Kaggle Dataset]
+* **Data Source:** [https://www.kaggle.com/datasets/sijovm/used-cars-data-from-ebay-kleinanzeigen]
 * **Python Analysis:** [Link to your Colab/Jupyter Notebook in repo]
 
 ## Data Cleaning & Preparation (Python / Pandas)
