@@ -6,8 +6,8 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Cleaning & Preparation](#data-cleaning--preparation)
-- [Dashboard UX & Design](#dashboard-ux--design)
+- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+- [Dashboard UX & Design](#dashboard-ux-&-design)
 - [Key Business Insights](#key-business-insights)
 - [Technologies Used](#technologies-used)
 
