@@ -22,6 +22,7 @@ The raw dataset required extensive cleaning to ensure accurate dashboard aggrega
 * Standardized column names and handled missing values.
 * Filtered out extreme outliers and erroneous data entries (e.g., impossible vehicle ages or €0 prices).
 * Translated localized German vehicle categories (e.g., converting "Kleinbus" to Minivan/Van) for a broader audience.
+* Began with an original dataset of 371,528 rows, cleaned down to 327,514 rows.
 
 ## Dashboard UX & Design (Tableau)
 Instead of relying on standard, rigid quick-filters, this dashboard was engineered with an advanced User Experience (UX) in mind:
