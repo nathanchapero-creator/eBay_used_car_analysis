@@ -1,6 +1,6 @@
 # 🚗 European Used Car Market Analysis (eBay Kleinanzeigen)
 
-<img width="1014" height="730" alt="eBayUsedCarsDashboard" src="https://github.com/user-attachments/assets/eb320b01-6e68-4de9-9102-a9e3b619ab1d" />
+<img width="981" height="697" alt="eBayUsedCarsDashboard" src="https://github.com/user-attachments/assets/18bb0743-d90c-40d2-8ae2-a196cee58d29" />
 
 *Click [here](https://public.tableau.com/app/profile/nathan.chapero/viz/eBay_used_car_analysis/Dashboard1?publish=yes) to view the interactive dashboard.*
 
