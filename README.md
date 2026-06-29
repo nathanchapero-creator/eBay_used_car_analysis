@@ -9,7 +9,7 @@
 - [Data Cleaning & Preparation](#data-cleaning--preparation-python--pandas)
 - [Dashboard UX & Design](#dashboard-ux--design-tableau)
 - [Key Business Insights](#key-business-insights)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#technologies-and-techniques)
 
 ## Project Overview
 This project analyzes a 2016 dataset of over 263,000 used car listings from the German eBay classifieds platform. The goal was to analyze pricing behavior, depreciation patterns, manufacturer segmentation, and develop an interactive dashboard for exploring the German used car market.
@@ -45,8 +45,7 @@ Instead of relying on rigid quick-filters, this dashboard was designed to improv
 
 4. **Market Segmentation by Utility:** The most common vehicle type for each manufacturer closely aligns with its market positioning. Economy brands are dominated by small cars, German luxury brands by sedans, while Audi stands out with wagons as its largest segment, consistent with the popularity of its Avant lineup in Europe.
 
-
-## Technologies Used
-* **Data Manipulation:** Python, Pandas, Google Colab
-* **Data Visualization:** Tableau Public
-* **Techniques:** Parameter Actions, Calculated Fields, Boolean Logic, Outlier Handling, Interactive Filtering, Data Cleaning
+## Technologies & Techniques
+* **Programming:** Python, Pandas, Google Colab
+* **Visualization:** Tableau Public
+* **Techniques:** Data Cleaning, Outlier Handling, Calculated Fields, Parameter Actions, Boolean Logic, Interactive Dashboard Design
