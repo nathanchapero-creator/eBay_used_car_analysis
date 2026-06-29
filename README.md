@@ -6,7 +6,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Cleaning & Preparation](##data-cleaning--preparation-python--pandas)
+- [Data Cleaning & Preparation](#data-cleaning--preparation-python--pandas)
 - [Dashboard UX & Design](#dashboard-ux--design-tableau)
 - [Key Business Insights](#key-business-insights)
 - [Technologies Used](#technologies-used)
