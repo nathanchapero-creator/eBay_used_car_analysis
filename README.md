@@ -37,10 +37,14 @@ Instead of relying on rigid quick-filters, this dashboard was engineered with an
   — Most Common Vehicle Type
 
 ## Key Business Insights
-1. **The 21-Year Depreciation Floor:** Across the top 10 manufacturers, the absolute trough of vehicle depreciation is remarkably consistent, clustering tightly between 19 and 21 years of age (with 70% of brands bottoming out exactly at year 21). At this two-decade mark, the market distinctly bifurcates: economy brands permanently level off at their lowest functional baseline value, while legacy premium brands pivot into an appreciation phase as they are preserved for the classic car market.
-2. **The Volume vs. Value Disconnect:** Volkswagen dominates the market in sheer volume (68k+ listings), but luxury brands like Audi and BMW command nearly double the median listing price (€6,000+).
-3. **The SUV Premium Ceiling:** While vehicle types like convertibles and minivans maintain tightly clustered market values, SUVs exhibit massive price variance (the widest Interquartile Range) across nearly all manufacturers. While older, utilitarian SUVs keep the median price anchored, the 75th percentile for SUVs stretches significantly higher than standard sedans or wagons. This highlights a massive "premium ceiling" driven by consumer demand, where buyers are willing to pay heavy premiums for higher-trim modern crossovers.
-4. **Market Segmentation by Utility**: The highest-volume vehicle type for each manufacturer perfectly mirrors its target demographic and market positioning. The economy tier (Opel, Ford, Renault, Peugeot, Fiat, Seat) is driven entirely by the "Small Car" segment, highlighting their primary role as affordable urban commuters. Conversely, legacy German brands (BMW, Mercedes, VW) are anchored by "Sedans," reflecting their dominance in the executive and family commuter markets. Notably, Audi stands alone with the "Wagon" as its most common vehicle, reflecting the strong European consumer preference for its premium "Avant" touring models.
+1. **The 21-Year Depreciation Floor:** Vehicle depreciation reaches a remarkably consistent low point between 19 and 21 years of age, with 70% of the top 10 manufacturers bottoming out at year 21. Beyond this point, economy brands generally stabilize at their lowest values, while several premium brands begin appreciating, consistent with vehicles entering the classic car market.
+
+2. **The Volume vs. Value Disconnect:** Volkswagen dominates the marketplace with over 68,000 listings, yet Audi and BMW maintain median listing prices exceeding €6,000—nearly double many mass-market competitors. This highlights how listing volume and vehicle value reflect different market segments.
+
+3. **The SUV Premium Ceiling:** SUVs exhibit the widest price dispersion across nearly all manufacturers. While older utility-focused models keep median prices relatively moderate, the upper quartile extends far beyond comparable sedans and wagons, suggesting buyers place a premium on newer, higher-trim SUVs.
+
+4. **Market Segmentation by Utility:** The most common vehicle type for each manufacturer closely aligns with its market positioning. Economy brands are dominated by small cars, German luxury brands by sedans, while Audi stands out with wagons as its largest segment, consistent with the popularity of its Avant lineup in Europe.
+
 
 ## Technologies Used
 * **Data Manipulation:** Python, Pandas, Google Colab
