@@ -27,7 +27,7 @@ The raw dataset required extensive cleaning to ensure accurate dashboard metrics
 
 ## Dashboard UX & Design (Tableau)
 Instead of relying on rigid quick-filters, this dashboard was designed to improve usability and exploratory analysis through parameter-driven interactions:
-* **Parameter-Driven Interactivity:** Built a custom dropdown parameter combined with boolean calculated fields to act as a master control panel.
+* **Parameter-Driven Interactivity:** Built a custom dropdown parameter combined with boolean calculated fields to provide a single control for filtering and highlighting dashboard views.
 * **Contextual Highlighting:** Selecting a brand (e.g., BMW) dynamically highlights its listing volume and median price in navy blue while dimming competitors to grey, preserving the context of the overall market.
 * **Dynamic Axis Scaling:** Configured the lower charts (Depreciation Line Chart and Vehicle Type Box Plots) to automatically rescale their axes based on the user's selection, ensuring optimal readability for both luxury and economy brands.
 * **Dynamic KPIs:** Four primary statistics update instantly based on the user's brand selection:
