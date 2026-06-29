@@ -26,15 +26,15 @@ The raw dataset required extensive cleaning to ensure accurate dashboard metrics
 * Filtered the final export to the Top 10 brands, retaining 263,260 listings (80.4% of the cleaned data) to focus the dashboard on the most relevant market trends.
 
 ## Dashboard UX & Design (Tableau)
-Instead of relying on rigid quick-filters, this dashboard was engineered with an advanced User Experience (UX) in mind:
+Instead of relying on rigid quick-filters, this dashboard was designed to improve usability and exploratory analysis through parameter-driven interactions:
 * **Parameter-Driven Interactivity:** Built a custom dropdown parameter combined with boolean calculated fields to act as a master control panel.
 * **Contextual Highlighting:** Selecting a brand (e.g., BMW) dynamically highlights its listing volume and median price in navy blue while dimming competitors to grey, preserving the context of the overall market.
 * **Dynamic Axis Scaling:** Configured the lower charts (Depreciation Line Chart and Vehicle Type Box Plots) to automatically rescale their axes based on the user's selection, ensuring optimal readability for both luxury and economy brands.
 * **Dynamic KPIs:** Four primary statistics update instantly based on the user's brand selection:
-  — Total Listing Count
-  — Median Car Age
-  — Median Listing Price
-  — Most Common Vehicle Type
+  * Total Listing Count
+  * Median Car Age
+  * Median Listing Price
+  * Most Common Vehicle Type
 
 ## Key Business Insights
 1. **The 21-Year Depreciation Floor:** Vehicle depreciation reaches a remarkably consistent low point between 19 and 21 years of age, with 70% of the top 10 manufacturers bottoming out at year 21. Beyond this point, economy brands generally stabilize at their lowest values, while several premium brands begin appreciating, consistent with vehicles entering the classic car market.
