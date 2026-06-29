@@ -43,4 +43,4 @@ Instead of relying on standard, rigid quick-filters, this dashboard was engineer
 ## Technologies Used
 * **Data Manipulation:** Python, Pandas, Google Colab
 * **Data Visualization:** Tableau Public
-* **Techniques:** Parameter Actions, Calculated Fields, Boolean Logic, Outlier Handling, Interactive Filtering, Data Cleaning, Data Visualization, 
+* **Techniques:** Parameter Actions, Calculated Fields, Boolean Logic, Outlier Handling, Interactive Filtering, Data Cleaning, Data Visualization
