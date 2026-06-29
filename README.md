@@ -9,7 +9,7 @@
 - [Data Cleaning & Preparation](#data-cleaning--preparation-python--pandas)
 - [Dashboard UX & Design](#dashboard-ux--design-tableau)
 - [Key Business Insights](#key-business-insights)
-- [Technologies Used](#technologies-and-techniques)
+- [Technologies and Techniques](#technologies-and-techniques)
 
 ## Project Overview
 This project analyzes a 2016 dataset of over 263,000 used car listings from the German eBay classifieds platform. The goal was to analyze pricing behavior, depreciation patterns, manufacturer segmentation, and develop an interactive dashboard for exploring the German used car market.
