@@ -37,9 +37,10 @@ Instead of relying on rigid quick-filters, this dashboard was engineered with an
   — Most Common Vehicle Type
 
 ## Key Business Insights
-1. **The Volume vs. Value Disconnect:** Volkswagen dominates the market in sheer volume (68k+ listings), but luxury brands like Audi and BMW command nearly double the median listing price (€6,000+).
-2. **Depreciation Cliffs:** Economy brands like Fiat experience severe value drop-offs around year 7, whereas premium brands maintain a flatter depreciation curve over a 15-year lifespan.
-3. **The Premium Van Market:** Minivans from luxury manufacturers (like BMW's Active Tourer series) command surprisingly high market medians compared to traditional sedans, pushing €20,000+.
+1. **The 21-Year Depreciation Floor:** Across the top 10 manufacturers, the absolute trough of vehicle depreciation is remarkably consistent, clustering tightly between 19 and 21 years of age (with 70% of brands bottoming out exactly at year 21). At this two-decade mark, the market distinctly bifurcates: economy brands permanently level off at their lowest functional baseline value, while legacy premium brands pivot into an appreciation phase as they are preserved for the classic car market.
+2. **The Volume vs. Value Disconnect:** Volkswagen dominates the market in sheer volume (68k+ listings), but luxury brands like Audi and BMW command nearly double the median listing price (€6,000+).
+3. **The SUV Premium Ceiling:** While vehicle types like convertibles and minivans maintain tightly clustered market values, SUVs exhibit massive price variance (the widest Interquartile Range) across nearly all manufacturers. While older, utilitarian SUVs keep the median price anchored, the 75th percentile for SUVs stretches significantly higher than standard sedans or wagons. This highlights a massive "premium ceiling" driven by consumer demand, where buyers are willing to pay heavy premiums for higher-trim modern crossovers.
+4. 
 
 ## Technologies Used
 * **Data Manipulation:** Python, Pandas, Google Colab
