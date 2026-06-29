@@ -15,10 +15,10 @@
 This project analyzes a dataset of over 263,000 used car listings from the German eBay classifieds platform. The goal was to identify market trends, understand vehicle depreciation curves by manufacturer, and build a highly interactive executive dashboard to allow users to isolate specific market segments.
 
 * **Data Source:** [https://www.kaggle.com/datasets/sijovm/used-cars-data-from-ebay-kleinanzeigen]
-* **Python Analysis:** [Link to your Colab/Jupyter Notebook in repo]
+* **Python Analysis:** [https://github.com/nathanchapero-creator/eBay_used_car_analysis/blob/main/eBay_used_car_cleaning.ipynb]
 
 ## Data Cleaning & Preparation (Python / Pandas)
-The raw dataset required extensive cleaning to ensure accurate dashboard aggregations. Using Python in Google Colab, I performed the following:
+The raw dataset required extensive cleaning to ensure accurate dashboard aggregations. Using Python/Pandas in Google Colab, I performed the following:
 * Standardized column names and handled missing values.
 * Filtered out extreme outliers and erroneous data entries (e.g., impossible vehicle ages or €0 prices).
 * Translated localized German vehicle categories (e.g., converting "Kleinbus" to Minivan/Van) for a broader audience.
@@ -29,6 +29,11 @@ Instead of relying on standard, rigid quick-filters, this dashboard was engineer
 * **Parameter-Driven Interactivity:** Built a custom dropdown parameter combined with boolean calculated fields to act as a master control panel.
 * **Contextual Highlighting:** Selecting a brand (e.g., BMW) dynamically highlights its market volume and median price in Navy Blue while dimming competitors to grey, preserving the context of the overall market.
 * **Dynamic Axis Scaling:** Configured the lower charts (Depreciation Line Chart and Vehicle Type Box Plots) to automatically rescale their axes based on the user's selection, ensuring optimal readability for both luxury and economy brands.
+* **Central KPIs:** Four primary statistics are presented on the dashboard and adjust to the filtered brands:
+  — Total Listing Count
+  — Median Car Age
+  — Median Listing Price
+  — Most Common Vehicle Type
 
 ## Key Business Insights
 1. **The Volume vs. Value Disconnect:** Volkswagen dominates the market in sheer volume (68k+ listings), but luxury brands like Audi and BMW command nearly double the median listing price (€6,000+).
@@ -38,4 +43,4 @@ Instead of relying on standard, rigid quick-filters, this dashboard was engineer
 ## Technologies Used
 * **Data Manipulation:** Python, Pandas, Google Colab
 * **Data Visualization:** Tableau Public
-* **Techniques:** Parameter Actions, Calculated Fields, Boolean Logic, Outlier Handling
+* **Techniques:** Parameter Actions, Calculated Fields, Boolean Logic, Outlier Handling, Interactive Filtering, Data Cleaning, Data Visualization, 
